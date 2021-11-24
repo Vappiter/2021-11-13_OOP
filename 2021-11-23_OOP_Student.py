@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 from pprint import pprint
 
 class Student:
